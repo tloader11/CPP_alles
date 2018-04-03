@@ -1,0 +1,2 @@
+Elke tweede letter in een woord wordt vervangen door een hoofdletter variant van die letter.
+Dit gebeurt voor alle woorden in de vector lijst met woorden.

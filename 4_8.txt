@@ -1,0 +1,20 @@
+void raadGetalOnderDeTien():
+
+    De userinput moet gecontroleerd worden:
+    int getVerifiedUserInput()
+    Er moet een random functie worden gemaakt die echt bijna-random is.
+    int getPseudoRandom(int lowerBound, int upperBound)
+
+int aantalWoordenInLangsteZin(string filename):
+    De file moet worden ingelezen in een variabele. (ik weet het, niet te doen voor grote bestanden)
+    string ReadFile(filename)
+    Vervolgens moet de file in regels worden opgeslagen
+    vector<string> lijst(string text)
+    Daarna moet voor elke string de lengte bepaald worden.
+    vector<unsigned int> wordcount (lijst)
+    Hieruit kan met een for loop en de functie max() bepaald worden welke regel het meeste woorden heeft.
+
+void bestuurZelfrijendeAuto():
+    Deze functie zet waarschijnlijk alleen een boolean autopilot = false;
+    Eventueel kan deze functie een andere functie aanroepen die zorgt dat de systemen stoppen
+    void StopAutomatedSystems()

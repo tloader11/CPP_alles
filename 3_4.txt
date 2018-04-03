@@ -1,0 +1,2 @@
+Middels een bitflip (meest linker wordt de meest rechter) worden de bits ge-reversed.
+01110100 wordt dus het omgekeerde: 00101110

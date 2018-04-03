@@ -1,0 +1,11 @@
+• numberOfCats()    -- int
+• firstVowel()      -- char
+• getAge()          -- int
+• getName()         -- String
+• count()           -- int
+• printRow()        -- void
+• uppercase()       -- String
+• isEqual()         -- boolean
+• readTextFile()    -- vector<String> of String
+• isBike()          -- boolean
+• yourTeacher()     -- Jorn Bunk :) (String)

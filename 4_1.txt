@@ -1,0 +1,3 @@
+Tosti Haring, ([brood x 3][kaas x 4][haring x 1]), 1
+Tosti koffie, ([brood x 2][kaas x 4][koffiebonen x 4]), 2
+Tosti hagelslag, ([brood x 2][hagelslag x 50][kaas x 4]), 4

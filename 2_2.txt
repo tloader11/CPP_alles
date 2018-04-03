@@ -1,0 +1,1 @@
+Voegt telkens een letter toe aan de return value. Om en om van allebei de strings tot beiden 'geritst' zijn en returnt dit.

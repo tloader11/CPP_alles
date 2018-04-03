@@ -1,0 +1,7 @@
+A: Doet alle negatieve nummers individueel *-1 en returnt de aangepaste lijst.
+B: Door de nummers direct aan te passen in de doorgegeven variabele. (mbv pointers...)
+C:
+1. je gooit een kopie van de lijst door, dus je originele blijft altijd onbewerkt.
+2. je gooit een reference door, dus je origineel wordt direct bewerkt (minder memory!)
+3. je gooit een reference door, maar je weet zeker dat die niet wordt aangepast ((vanwege const) + minder memory!)
+D: 3, omdat je zo zowel je oude behoudt als je nieuwe aanmaakt, zonder dat het dubbel de hoeveelheid memory kost!

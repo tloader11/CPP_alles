@@ -1,0 +1,8 @@
+A:
+for(unsigned int i = 0; i < numbers.size(); i++){
+wordt:
+for(unsigned int i = numbers.size()-1; i >= 0; i--){ //size geeft 1....x terug ipv 0...x , bijschaven.
+
+B: als er geen index gevonden kan worden met als waarde bij die index 8.
+
+C: Omdat -1 een niet-bestaande list positie is. Je weet dus gegarandeerd dat als je -1 terug krijgt, er geen index is.

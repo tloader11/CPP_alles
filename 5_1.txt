@@ -1,0 +1,1 @@
+Deze functie geeft het aantal oren dat de konijnen gezamelijk hebben terug (n_rabbits = 8 geeft 16).
